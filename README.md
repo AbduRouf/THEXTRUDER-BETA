@@ -22,18 +22,13 @@ Here we look forward this project to collaborate with KTDC,which helps us to mak
 easier and efficient.
 
 *TEXT STACK
-XAMPP v3.3.0
 PHP
 MySQL Database
 HTML
 CSS
-JavaScript
-Ajax
-jQuery
-Bootstrap
-Font-awesome
-Bootstrap DataTables
-AdminLTE Template
+BOOTSTRAP
+WORDPRESS[THEXTRUDER BETA-FINAL-BH5.pptx](https://github.com/AbduRouf/THEXTRUDER-BETA-AQUESSE/files/10323500/THEXTRUDER.BETA-FINAL-BH5.pptx)
+
 
 *ANY PAID/OPEN SOURCE SOFTWARE USED & LICENSE INFO
 LICENSE INFO-GPL(GENERAL PUBLIC LICENSE)
