@@ -22,7 +22,18 @@ Here we look forward this project to collaborate with KTDC,which helps us to mak
 easier and efficient.
 
 *TEXT STACK
-HTML,PHP,BOOTSTRAP
+XAMPP v3.3.0
+PHP
+MySQL Database
+HTML
+CSS
+JavaScript
+Ajax
+jQuery
+Bootstrap
+Font-awesome
+Bootstrap DataTables
+AdminLTE Template
 
 *ANY PAID/OPEN SOURCE SOFTWARE USED & LICENSE INFO
 LICENSE INFO-GPL(GENERAL PUBLIC LICENSE)
