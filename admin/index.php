@@ -125,6 +125,8 @@
 							$bn = $row['b_name'];
 							$bcpcty = $row['b_cpcty'];
 							$bon = $row['b_on'];
+
+					
 							$bimg = $row['b_img'];
 							$bPrice = $row['b_price'];
 						
